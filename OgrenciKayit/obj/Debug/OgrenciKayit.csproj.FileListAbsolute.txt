@@ -1,0 +1,10 @@
+D:\C#\OgrenciKayit\bin\Debug\OgrenciKayit.exe.config
+D:\C#\OgrenciKayit\bin\Debug\OgrenciKayit.exe
+D:\C#\OgrenciKayit\bin\Debug\OgrenciKayit.pdb
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.AssemblyReference.cache
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.Form1.resources
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.Properties.Resources.resources
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.GenerateResource.cache
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.CoreCompileInputs.cache
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.exe
+D:\C#\OgrenciKayit\obj\Debug\OgrenciKayit.pdb
